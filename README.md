@@ -72,5 +72,6 @@
 <br>
  
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-  
+<!--   
 <img align="center" width="100%" src="https://i.pinimg.com/564x/d8/42/ce/d842cebc5da661c7c3c2340aa20bf84c.jpg" />
+ -->
