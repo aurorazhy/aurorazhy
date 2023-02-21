@@ -48,8 +48,9 @@
 <img src="https://icon2.cleanpng.com/20180407/gse/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e6cb7f5.5357905715231264304453.jpg" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="50" />
 </span>
-<br><br>
-### Spotify Playing 🎧
+
+  
+## Spotify Playing 🎧
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
