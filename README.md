@@ -12,7 +12,7 @@
 
 <img align="center" width="100%" src="https://i.pinimg.com/736x/09/50/82/0950826ee157e304ecb04e399ece7685.jpg" />
 
-## <p align="center"><h4 align="center"><samp> A Web Developer, A Front-end Developer, A Streamer & A Gamer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A Web Developer, A Front-end, A Streamer & A Gamer </samp></h4></p>
 
 <div>
 <img align="right" src="https://i.pinimg.com/564x/d1/2a/82/d12a82a0a6a68c2dfddb9e6bb5099af2.jpg" width="40%"/>
