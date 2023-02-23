@@ -1,4 +1,4 @@
-## Hi guys 👋
+## Aura Here! :gem:
 <a href="https://www.linkedin.com/in/aurora-felisha-41768824b/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -64,7 +64,7 @@
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=aurorazhy&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aurorazhy&theme=tokyonight" />
 <!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aurorazhy&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/> -->
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurorazhy&theme=tokyonight" />
+<!--     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurorazhy&theme=tokyonight" /> -->
     </span></a>
 </p>
   
