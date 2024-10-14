@@ -21,7 +21,7 @@
 - 👷 <samp><b>Aurora Felisha Febrianae</b>
 - 👨‍🎓 <samp><b>Bachelor in Information System from Bina Insani University</b>
 - 💼 <samp>I’m looking for **Part-Time** Opportunities/roles.
-- 🤔 <samp>I’m looking for help with how to excel in Web Developing.
+- 🤔 <samp>I’m looking for help with how to be a pro in Web Developing.
 - ⚡ <samp>Fun fact: I am fast learner but i also forget easily :(
 - ♟ <samp>I play a lot of games
 </div>
@@ -32,7 +32,7 @@
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👨🏻‍💻 VueJS Certificate from Jabar Coding Camp<br>
 - 👨🏻‍💻 Junior Web Developer (VSGA) Certificate from Digital talent<br>
-- 👷 <b>Upcoming Bangkit Certification in Cloud Computing</b><br>
+- 👷 <b>Cloud Computing Certificate from Bangkit</b><br>
 </div>
 
 ##
